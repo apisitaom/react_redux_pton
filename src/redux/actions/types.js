@@ -1,0 +1,1 @@
+export const SET_EMPLOYEE_LIST = "employee_list"; //สร้าง action type ของ employee เพื่อใช้ในการ set employee
